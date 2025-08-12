@@ -1,0 +1,9 @@
+{
+  "id": "shdownloader",
+  "name": "ShDownloader",
+  "version": "1.0.0",
+  "authors": [
+    "vanes430"
+  ],
+  "dependencies": []
+}

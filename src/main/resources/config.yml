@@ -1,0 +1,7 @@
+# ShDownloader configuration
+# NOTE: Paths are resolved relative to the server working directory (the same directory as server.jar by default).
+downloadpath: "./"
+# Default request header (User-Agent). If invalid or empty, the plugin will fallback to a Chrome-on-Ubuntu UA.
+customheaderrequest: "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
+# Maximum download speed in megabits per second (Mbps). Use a positive integer.
+maxspeed_on_mbps: 20

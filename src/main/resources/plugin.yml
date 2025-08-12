@@ -1,0 +1,9 @@
+name: ShDownloader
+version: 1.0.0
+main: com.github.vanes430.Shdownloader
+description: Console-only downloader (wget-like) with redirect follow and speed throttle.
+author: vanes430
+commands:
+  shdownload:
+    description: Download a file from a URL to the server filesystem (console-only)
+    usage: /shdownload <url> [--name <filename>]
